@@ -35,7 +35,7 @@ social:
   icon_pack: fab
   link: https://github.com/sirifolstad
 - icon: instagram
-  icon\_pack: fab
+  icon_pack: fab
   link: https://www.instagram.com/sirifolstad/
 superuser: true
 user_groups:
