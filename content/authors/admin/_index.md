@@ -43,6 +43,7 @@ user_groups:
 - Visitors
 ---
 
+
 I am a December 2019 graduate from the University of Manchester with a Master of Research (MRes) degree in Psychology. My interests include psychosis and youth mental health research, data science and qualitative methodologies.
 
 Currently, I am working as a mental health community therapist in a psychiatric rehab centre just outside Oslo, with clients who experience symptoms of psychosis, anxiety, depression and other emotional difficulties. On my spare time I conduct data analyses and data visualisations on open datasets, by using R Studio and R Markdown.
