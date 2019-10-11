@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570808586622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1406795331",
+    "id" : "C9BF7716",
+    "lastKnownWriteTime" : 1570802517,
+    "last_content_update" : 1570802517,
+    "path" : "~/Documents/GitHub/website_13x/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
