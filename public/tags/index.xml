@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Siri H. Folstad {2019}</copyright><lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Siri H. Folstad {2019}</copyright><lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,33 +13,9 @@
     </image>
     
     <item>
-      <title>Binder</title>
-      <link>/tags/binder/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/binder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducibility</title>
-      <link>/tags/reproducibility/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/reproducibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Demo</title>
       <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/tags/demo/</guid>
       <description></description>
     </item>

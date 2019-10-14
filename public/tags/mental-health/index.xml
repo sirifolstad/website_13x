@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental Health | Siri H. Folstad</title>
+    <link>/tags/mental-health/</link>
+      <atom:link href="/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mental Health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Siri H. Folstad {2019}</copyright><lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mental Health</title>
+      <link>/tags/mental-health/</link>
+    </image>
+    
+    <item>
+      <title>New study sheds light on Stephen Fry’s portrayal of manic depression</title>
+      <link>/post/post1/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/post1/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.manchester.ac.uk/discover/news/new-study-sheds-light-on-stephen-frys-portrayal-of-manic-depression/&#34; target=&#34;_blank&#34;&gt;https://www.manchester.ac.uk/discover/news/new-study-sheds-light-on-stephen-frys-portrayal-of-manic-depression/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
